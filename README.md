@@ -56,8 +56,4 @@ Sou Gustavo, um desenvolvedor de software especializado em frontend e empreended
 </p>
 
 ---
-
-<p align="center">
-  ✨ **"Codar é criar experiências e resolver problemas de forma criativa."**  
-</p>
  
